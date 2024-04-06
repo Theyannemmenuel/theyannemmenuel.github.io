@@ -12,7 +12,7 @@ body{
     position: relative;
     display: flex;
     flex-direction: column;
-    background-color: bisque;
+    background-color: darkcyan;
 }
 
 h2{
